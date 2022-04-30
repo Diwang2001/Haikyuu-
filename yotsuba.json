@@ -1,0 +1,50 @@
+{
+    "manifest": {
+        "name": "Haikyuu!",
+        "author": "Devill",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/956734859060076564\/969734745023979520\/peakpx.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -16777216,
+        "mention_highlight": 1275035136,
+        "input_background": -15458745
+    },
+    "colors": {
+        "primary_dark_600": -13286794,
+        "primary_dark_800": -16051406,
+        "primary_dark_630": -14733980,
+        "primary_dark_700": -15458745,
+        "primary_dark_660": -15458745,
+        "primary_dark_200": -33280,
+        "primary_dark_300": -33280,
+        "primary_dark_400": -20382,
+        "uikit_btn_compound_color_selector_light": -14733980,
+        "uikit_btn_compound_color_selector_dark": -33280,
+        "uikit_btn_bg_color_selector_red": -2802628,
+        "white_500": -33280,
+        "uikit_settings_item_text_color_dark": -33280,
+        "uikit_settings_item_text_color_light": -16051406,
+        "link_500": -16777216,
+        "link": -16777216,
+        "primary_dark_360": -33280
+    },
+    "drawable_tints": {
+        "ic_channel_text": -15458745,
+        "ic_channel_announcements_nsfw": -15458745,
+        "ic_channel_text_locked": -15458745,
+        "ic_channel_text_nsfw": -15458745,
+        "ic_channel_voice": -15458745,
+        "ic_channel_lock_16dp": -15458745,
+        "ic_channel_announcements_thread_nsfw": -15458745,
+        "ic_channel_announcements_thread_locked": -15458745,
+        "ic_channel_announcements_thread": -15458745,
+        "ic_channel_pinned_message": -15458745,
+        "ic_archived_clock_dark": -15458745,
+        "ic_arrow_back_white_24dp": -15458745
+    },
+    "raws": {}
+}
